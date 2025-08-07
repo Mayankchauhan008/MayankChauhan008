@@ -10,7 +10,7 @@
 
 **Data Analysis Intern – Data Analysis , statistical techniques and tools**  
 **Samatrix Consulting Pvt. Ltd.**, 311, Vipul Trade Centre, Sohna Road, Gurgaon 122018   
-*May 2025 – June 2025 (30 Days)*
+*May 2025 – June 2025 (4 Weeks)*
 
 ##  About Me
 - 🔭 I'm passionate about ML, DL, and data-driven systems.
