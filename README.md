@@ -13,7 +13,7 @@
 *May 2025 – June 2025 (30 Days)*
 
 ##  About Me
-- 🔭 I'm passionate about ML, web dev, and data-driven systems.
+- 🔭 I'm passionate about ML, DL, and data-driven systems.
 - 🌱 Recently worked on projects like **ML** ,**Car‑Price‑Prediction‑System**, **PHISHING‑WEB‑SITES‑DETECTION** and **Testing‑Pneumonia**.
 - 💬 Ask me about Python, machine learning or deep learning.
 
