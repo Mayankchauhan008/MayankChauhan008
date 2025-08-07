@@ -1,4 +1,4 @@
-# Hi, I’m Mayank Chauhan 👋
+<h1 align="center"> Hi, I’m Mayank Chauhan 👋</h1>
 
 ## 🎓 Education
 
