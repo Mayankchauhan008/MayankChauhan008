@@ -14,9 +14,8 @@
 
 ##  About Me
 - 🔭 I'm passionate about ML, web dev, and data-driven systems.
-- 🌱 Recently worked on projects like **Car‑Price‑Prediction‑System**, **PHISHING‑WEB‑SITES‑DETECTION**, and **Testing‑Pneumonia**.
+- 🌱 Recently worked on projects like **ML** ,**Car‑Price‑Prediction‑System**, **PHISHING‑WEB‑SITES‑DETECTION** and **Testing‑Pneumonia**.
 - 💬 Ask me about Python, machine learning or deep learning.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-chauhan2005) or check my [LeetCode](https://leetcode.com/u/Mayank_Chauhan_008/) profile.
 
 ---
 
@@ -32,9 +31,9 @@
 | Car‑Price‑Prediction‑System | Built with HTML – predicts car prices based on features. |
 | ML | A Jupyter Notebook exploring machine learning models. |
 | PHISHING‑WEB‑SITES‑DETECTION | Python-based detection of phishing domains. |
-| React | JavaScript project using React for interactive UI. |
 | Testing‑Pneumonia | Data science project for pneumonia detection. |
 | ByteBenders | HTML-based collaborative project under Bhargavvv412. |
+| React | JavaScript project using React for interactive UI.(Basic Level) |
 
 ---
 
@@ -49,7 +48,8 @@
 
 - 📫 **Email:** [mayankchauhan966@gmail.com](mailto:mayankchauhan966@gmail.com)
 - 💼 **LinkedIn:** [Mayank Chauhan](https://www.linkedin.com/in/mayank-chauhan2005)
-
+- 🧩 **LeetCode:** [Mayank_Chauhan_008](https://leetcode.com/u/Mayank_Chauhan_008/)
+  
 ---
 
 ##  Let’s Connect!
