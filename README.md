@@ -12,11 +12,6 @@
 **Samatrix Consulting Pvt. Ltd.**, 311, Vipul Trade Centre, Sohna Road, Gurgaon 122018   
 *May 2025 – June 2025 (4 Weeks)*
 
-##  About Me
-- 🔭 I'm passionate about ML, DL, and data-driven systems.
-- 🌱 Recently worked on projects like **ML** ,**Car‑Price‑Prediction‑System**, **PHISHING‑WEB‑SITES‑DETECTION** and **Testing‑Pneumonia**.
-- 💬 Ask me about Python, machine learning or deep learning.
-
 ---
 
 ## 📊 LeetCode Stats
@@ -25,15 +20,16 @@
 
 ---
 
-##  Pinned Projects
+## 📌 Pinned Projects
 | Project | Description |
 |---------|-------------|
-| Car‑Price‑Prediction‑System | Built with HTML – predicts car prices based on features. |
-| ML | A Jupyter Notebook exploring machine learning models. |
-| PHISHING‑WEB‑SITES‑DETECTION | Python-based detection of phishing domains. |
-| Testing‑Pneumonia | Data science project for pneumonia detection. |
-| ByteBenders | HTML-based collaborative project under Bhargavvv412. |
-| React | JavaScript project using React for interactive UI.(Basic Level) |
+| [Car‑Price‑Prediction‑System](https://github.com/Mayankchauhan008/Car-Price-Prediction-System) | Built with HTML – predicts car prices based on features. |
+| [ML](https://github.com/Mayankchauhan008/ML) | A Jupyter Notebook exploring machine learning models. |
+| [PHISHING‑WEB‑SITES‑DETECTION](https://github.com/Mayankchauhan008/PHISHING-WEB-SITES-DETECTION) | Python-based detection of phishing domains. |
+| [Testing‑Pneumonia](https://github.com/Mayankchauhan008/Testing-Pneumonia) | Data science project for pneumonia detection. |
+| [ByteBenders](https://github.com/Mayankchauhan008/ByteBenders) | HTML-based collaborative project under Bhargavvv412. |
+| [React](https://github.com/Mayankchauhan008/React) | JavaScript project using React for interactive UI. (Basic Level) |
+
 
 ---
 
