@@ -24,6 +24,7 @@
 | Project | Description |
 |---------|-------------|
 | [Car‑Price‑Prediction‑System](https://github.com/Mayankchauhan008/Car-Price-Prediction-System) | Built with HTML – predicts car prices based on features. |
+| [DL](https://github.com/Mayankchauhan008/DL) | A Jupyter Notebook exploring deep learning models. |
 | [ML](https://github.com/Mayankchauhan008/ML) | A Jupyter Notebook exploring machine learning models. |
 | [PHISHING‑WEB‑SITES‑DETECTION](https://github.com/Mayankchauhan008/PHISHING-WEB-SITES-DETECTION) | Python-based detection of phishing domains. |
 | [Testing‑Pneumonia](https://github.com/Mayankchauhan008/Testing-Pneumonia) | Data science project for pneumonia detection. |
