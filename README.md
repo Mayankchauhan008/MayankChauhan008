@@ -26,10 +26,11 @@
 | [Car‑Price‑Prediction‑System](https://github.com/Mayankchauhan008/Car-Price-Prediction-System) | Built with HTML – predicts car prices based on features. |
 | [DL](https://github.com/Mayankchauhan008/DL) | A Jupyter Notebook exploring deep learning models. |
 | [ML](https://github.com/Mayankchauhan008/ML) | A Jupyter Notebook exploring machine learning models. |
-| [PHISHING‑WEB‑SITES‑DETECTION](https://github.com/Mayankchauhan008/PHISHING-WEB-SITES-DETECTION) | Python-based detection of phishing domains. |
+| [CyberGuard-AI](https://github.com/Mayankchauhan008/CyberGuard-AI) | URL Threat Detection Web App |
 | [Testing‑Pneumonia](https://github.com/Mayankchauhan008/Testing-Pneumonia) | Data science project for pneumonia detection. |
 | [ByteBenders](https://github.com/Mayankchauhan008/ByteBenders) | HTML-based collaborative project under Bhargavvv412. |
-| [React](https://github.com/Mayankchauhan008/React) | JavaScript project using React for interactive UI. (Basic Level) |
+| [PHISHING‑WEB‑SITES‑DETECTION](https://github.com/Mayankchauhan008/PHISHING-WEB-SITES-DETECTION) | Python-based detection of phishing domains. |
+
 
 
 ---
