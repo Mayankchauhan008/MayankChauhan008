@@ -35,12 +35,6 @@
 
 ---
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankchauhan008&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
----
 
 ## 📞 Contact Information
 
